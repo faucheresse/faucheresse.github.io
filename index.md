@@ -6,5 +6,5 @@
 # Stage report
 *Click on the link and download the pdf on github:*
 
-* [Download the apk](https://github.com/faucheresse/faucheresse.github.io/releases/tag/Rapport)
+* [Download the pdf](https://github.com/faucheresse/faucheresse.github.io/releases/tag/Rapport)
 
