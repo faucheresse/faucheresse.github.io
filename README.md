@@ -1,3 +1,1 @@
 # faucheresse.github.io
-
-* test
