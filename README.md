@@ -1,3 +1,3 @@
 # faucheresse.github.io
 
-* That's my page
+* That's my homepage
